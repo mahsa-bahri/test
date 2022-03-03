@@ -1,2 +1,2 @@
 # test
-first proj
+in this project we tried to filter all sized pictures by matlab .
